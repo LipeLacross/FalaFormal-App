@@ -1,0 +1,17 @@
+Aplicativo móvel para ajudar a melhorar a fala e a coesão verbal dos usuários iria ajudar o usuário a falar usando:
+
+Finalidade	Conectivos
+Adição	além disso, outrossim, ademais, não só… como também, bem como, não apenas… mas também, ainda, inclusive, igualmente
+Conclusão	portanto, em suma, assim, dessa forma, logo, consequentemente, por fim, por conseguinte, em conclusão, em síntese
+Contraste/Oposição	contudo, no entanto, entretanto, apesar disso, por outro lado, em contrapartida, todavia, ao contrário, por sua vez
+Causa/Explicação	porque, pois, visto que, dado que, uma vez que, por conseguinte, já que, por isso, em virtude de
+Condição	caso, se, desde que, contanto que, a menos que, salvo se, desde que, no caso de, com a condição de
+Concessão	embora, ainda que, mesmo que, apesar de, por mais que, em que pese, conquanto, não obstante
+Exemplificação	por exemplo, como, tal como, entre outros, especificamente, como ilustrado por, nomeadamente, principalmente, isto é, a saber
+Sequência/Ordem	primeiramente, em seguida, por fim, finalmente, antes de mais nada, posteriormente, inicialmente, logo após, depois, então
+Reforço/Ênfase	de fato, sem dúvida, certamente, realmente, com efeito, é importante ressaltar, indubitavelmente, sem sombra de dúvida
+Comparação	assim como, da mesma forma, igualmente, tal qual, semelhantemente, do mesmo modo, análogo a, de forma similar
+
+eles iriam treinar a fala com frases
+
+React Native, Expo, TypeScript, SQLite
