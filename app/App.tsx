@@ -1,13 +1,13 @@
 import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import TrainingScreen from './app/screens/TrainingScreen';
-import HomeScreen from './app/screens/HomeScreen';
-import SettingsScreen from './app/screens/SettingsScreen';
+import TrainingScreen from './screens/TrainingScreen';
+import HomeScreen from './screens/HomeScreen';
+import SettingsScreen from './screens/SettingsScreen';
 
 const Stack = createNativeStackNavigator();
 
-export default function App() {
+const App = () => {
     return (
         <NavigationContainer>
             <Stack.Navigator initialRouteName="Home">
@@ -17,4 +17,6 @@ export default function App() {
             </Stack.Navigator>
         </NavigationContainer>
     );
-}
+};
+
+export default App;  // Certifique-se que esta linha está presente

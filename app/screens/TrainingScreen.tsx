@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { View, Text, Button } from 'react-native';
 import * as Speech from 'expo-speech';
-import { getConectivos } from '../utils/sqlite';
+import { getConectivos } from '../../utils/sqlite';
 
 const TrainingScreen = () => {
     const [conectivos, setConectivos] = useState<any[]>([]);
